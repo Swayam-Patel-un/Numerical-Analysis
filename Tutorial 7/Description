@@ -1,0 +1,5 @@
+This section is on solving second order ODEs. Methods used:
+
+(a) Fourth-order Taylor Expansion approach
+
+(b) Fourth-order Runge-Kutta (RK4) method
